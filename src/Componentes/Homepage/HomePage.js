@@ -1,4 +1,5 @@
 import React from 'react';
+import MainHeader from '../MainHeader/MainHeader';
 import NavBar from '../NavBar/NavBar';
 
 const HomePage = () => {
@@ -6,7 +7,7 @@ const HomePage = () => {
         <div>
             
             <NavBar></NavBar>
-            <h1>HomePage</h1>
+            <MainHeader />
             
             
         </div>

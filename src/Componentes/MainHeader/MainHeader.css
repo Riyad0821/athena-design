@@ -1,7 +1,7 @@
 .header-container{
     color: #0d052e;
     font-family: "Yeseva One";
-    background-image: url(../../../resources/headerPath.png);
+    background-image: url('../../resources/headerPath.png');
     background-size: cover;
 }
 .head-title{
