@@ -1,0 +1,15 @@
+.border-info{
+    width: 150px;
+}
+.teamBgStyle{
+    background-color: #f1fcf7;
+}
+.teamCardStyle{
+    box-shadow: 7px 7px 5px #e9f8f1;
+}
+.teamCardStyle:hover{
+    border: 3px solid #1cd8b9;
+}
+.servicePrice{
+    font-size: 55px;
+}
