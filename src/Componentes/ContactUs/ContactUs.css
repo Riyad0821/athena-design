@@ -1,0 +1,37 @@
+.backgroundStyle{
+    background-color: #f4fdf9;
+    height: 85vh;
+}
+.cardImgStyle{
+    height: 90px;
+    width: 90px;
+}
+.serviceCardStyle{
+    background-color: #f4fdf9;
+}
+.textStyle{
+    color: #bdc0be;
+    font-size: small;
+}
+.serviceCardStyle:hover{
+    box-shadow: 7px 7px 5px #dcf1e9;
+    border-top-left-radius: 25%;
+    border-bottom-right-radius: 25%;
+    background-color: white;
+    transform:scale(1.08);
+    transition:transform 1s;
+}
+.btnStyle{
+    border-top-left-radius: 35%;
+    border-bottom-right-radius: 35%;
+}
+.imageSizing{
+    height: 500px;
+}
+.backgroundImgStyle{
+    background: url('../../../resources/Group\ 46@2x.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    margin-left: auto;
+}
