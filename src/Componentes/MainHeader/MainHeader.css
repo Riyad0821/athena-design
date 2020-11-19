@@ -3,8 +3,18 @@
     font-family: "Yeseva One";
     background-image: url('../../resources/headerPath.png');
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: -100mm;
+    background-position-y: 0vw;
 }
 .head-title{
     font-size: 500%;
     font-weight: bold;
+}
+.btn{
+    border-radius: 20px 0px 20px 0px;
+    background-image: linear-gradient(to right, #1cd8b9, #2ebbed); 
+    border: 0px solid white; 
+    height: 40px;
+    width: 120px;    
 }
