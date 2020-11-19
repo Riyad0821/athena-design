@@ -30,47 +30,13 @@ const NavBar = () => {
                             <a className="nav-link text-dark" href="#team">Our Team</a>
                         </li>
                         <li className="nav-item mx-2">
-                            <a className="nav-link text-dark" href="#contact"><button type="button" class="btn btn-primary">Contact Us</button></a>
+                            <a className="nav-link text-dark" href="#contact"><button type="button" class="btn btn-primary btn-contact">Contact Us</button></a>
                         </li>
                     </ul>
             </div>
             </navbar>
     </div>
 
-
-    // <nav className="navbar navbar-expand-md navbar-light">
-    //         <div className="container-xl">
-    //             <div className="navbar-brand" to="/">
-    //                 <img src={logo} alt="" width="130px" />
-    //             </div>
-    //             <button className="border-0 navbar-toggler" type="button" data-toggle="collapse" data-target="#nava">
-    //                 <span className="navbar-toggler-icon"></span>
-    //             </button>
-    //             <div className="collapse text-center navbar-collapse" id="nava">
-    //                 <ul className="navbar-nav ml-auto">
-                        
-    //                 <li className="nav-item mx-2">
-    //                         <a className="nav-link text-dark bold" href="#works">Home</a>
-    //                     </li>
-    //                     <li className="nav-item mx-2">
-    //                         <a className="nav-link text-dark" href="#works">About</a>
-    //                     </li>
-    //                     <li className="nav-item mx-2">
-    //                         <a className="nav-link text-dark" href="#works">Services</a>
-    //                     </li>
-    //                     <li className="nav-item mx-2">
-    //                         <a className="nav-link text-dark" href="#works">Pricing</a>
-    //                     </li>
-    //                     <li className="nav-item mx-2">
-    //                         <a className="nav-link text-dark" href="#works">Our Team</a>
-    //                     </li>
-    //                     <li className="nav-item mx-2">
-    //                         <a className="nav-link text-dark" href="#works"><button type="button" class="btn btn-primary">Contact Us</button></a>
-    //                     </li>
-    //                 </ul>
-    //             </div>
-    //         </div>
-    //     </nav>
     );
 };
 

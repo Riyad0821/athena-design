@@ -1,4 +1,6 @@
 import React from 'react';
+import Achievements from '../Achievements/Achievements';
+import Footer from '../Footer/Footer';
 import NavBar from '../NavBar/NavBar';
 
 const HomePage = () => {
@@ -7,6 +9,8 @@ const HomePage = () => {
             
             <NavBar></NavBar>
             <h1>HomePage</h1>
+            <Footer></Footer>
+            {/* <Achievements></Achievements> */}
             
             
         </div>
