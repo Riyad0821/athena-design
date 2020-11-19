@@ -1,0 +1,17 @@
+*{
+    font-size:20px;
+    margin: 5px 15px;
+    font-weight: bold;
+
+}
+.logo{
+    width: 100px;
+}
+#navitems{
+    justify-content:right;
+}
+.btn{
+    border-radius: 25px 0px 25px 0px;
+    background-image: linear-gradient(to right, #1cd8b9, #2ebbed); 
+    border: 0px solid white;     
+}
