@@ -1,6 +1,6 @@
 .backgroundStyle{
     background-color: #f4fdf9;
-    height: 100vh;
+    height: 85vh;
 }
 .cardImgStyle{
     height: 90px;
@@ -18,4 +18,20 @@
     border-top-left-radius: 25%;
     border-bottom-right-radius: 25%;
     background-color: white;
+    transform:scale(1.08);
+    transition:transform 1s;
+}
+.btnStyle{
+    border-top-left-radius: 35%;
+    border-bottom-right-radius: 35%;
+}
+.imageSizing{
+    height: 500px;
+}
+.backgroundImgStyle{
+    background: url('../../../resources/Group\ 46@2x.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    padding-left: auto;
 }
