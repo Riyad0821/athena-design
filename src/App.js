@@ -1,13 +1,14 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import MainHeader from './components/Home/MainHeader/MainHeader';
+
+import HomePage from './Componentes/Homepage/HomePage';
 
 function App() {
   return (
-    <div>
-      <MainHeader />
-    </div>
+
+    <HomePage></HomePage>
+        
   );
 }
 
