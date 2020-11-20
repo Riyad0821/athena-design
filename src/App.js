@@ -8,6 +8,7 @@ import MainHeader from './Componentes/MainHeader/MainHeader';
 import Service from './Componentes/Service/Service';
 import Team from './Componentes/Team/Team';
 import ContactUs from './Componentes/ContactUs/ContactUs';
+import Footer from './Componentes/Footer/Footer';
 
 
 function App() {
@@ -16,8 +17,9 @@ function App() {
       <NavBar></NavBar>
       <MainHeader></MainHeader>
       <Service></Service>
-      <Team></Team>
       <ContactUs></ContactUs>
+      <Team></Team>
+      <Footer></Footer>
     </div>
   );
 }

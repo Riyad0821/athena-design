@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="d-flex justify-content-center">
           <div class="input-group-prepend inputWidth search col-sm-12 col-md-6">
             <input type="email" class="form-control mr-3" placeholder="Enter your email address"/>
-            <button className = 'btn btn-primary inputBtn'>Get Started</button>
+            <button className = ' btn-primary inputBtn'>Get Started</button>
           </div>
         </div>
         <div className="row footerList">
