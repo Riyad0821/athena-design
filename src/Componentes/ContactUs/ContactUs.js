@@ -3,7 +3,7 @@ import coverImage from '../../resources/20 [Converted]@2x.png';
 
 const ContactUs = () => {
     return (
-        <div className="backgroundImgStyle">
+        <div className="backgroundImgStyle mt-3">
             <div className="container pt-5">
                 <div className="row justify-content-center">
                     <div className="col-md-7">
