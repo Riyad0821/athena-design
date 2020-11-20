@@ -1,0 +1,29 @@
+.backgroundStyle{
+    background-color: #f4fdf9;
+    height: 100vh;
+    background-image: url(../../resources/wwdPath.png);
+    background-position-x: -60mm;
+    background-position-y: 0vw;
+}
+.cardImgStyle{
+    height: 90px;
+    width: 90px;
+}
+.serviceCardStyle{
+    
+}
+.textStyle{
+    color: #bdc0be;
+    font-size: small;
+}
+.serviceCardStyle:hover{
+    box-shadow: 7px 7px 5px #dcf1e9;
+    border-top-left-radius: 25%;
+    border-bottom-right-radius: 25%;
+    background-color: white;
+}
+.service-title{
+    color: #0d052e;
+    font-family: "Yeseva One";
+    font-weight: bold;
+}

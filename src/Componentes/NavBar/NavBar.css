@@ -1,8 +1,6 @@
 *{
-    font-size:20px;
-    margin: 5px 15px;
-    font-weight: bold;
-
+    font-size:15px;
+    padding: 3px;
 }
 .logo{
     width: 100px;
@@ -11,7 +9,9 @@
     justify-content:right;
 }
 .btn{
-    border-radius: 25px 0px 25px 0px;
+    border-radius: 20px 0px 20px 0px;
     background-image: linear-gradient(to right, #1cd8b9, #2ebbed); 
-    border: 0px solid white;     
+    border: 0px solid white; 
+    height: 40px;
+    width: 120px;    
 }
