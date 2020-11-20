@@ -7,6 +7,8 @@ import NavBar from './Componentes/NavBar/NavBar';
 import MainHeader from './Componentes/MainHeader/MainHeader';
 import Service from './Componentes/Service/Service';
 import Team from './Componentes/Team/Team';
+import ContactUs from './Componentes/ContactUs/ContactUs';
+
 
 function App() {
   return (
@@ -15,6 +17,7 @@ function App() {
       <MainHeader></MainHeader>
       <Service></Service>
       <Team></Team>
+      <ContactUs></ContactUs>
     </div>
   );
 }
