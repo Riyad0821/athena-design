@@ -9,6 +9,7 @@ import Service from './Componentes/Service/Service';
 import Team from './Componentes/Team/Team';
 import ContactUs from './Componentes/ContactUs/ContactUs';
 import Footer from './Componentes/Footer/Footer';
+import Achievement from './Componentes/Achievement/Achievement';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <MainHeader></MainHeader>
       <Service></Service>
       <ContactUs></ContactUs>
+      <Achievement></Achievement>
       <Team></Team>
       <Footer></Footer>
     </div>
